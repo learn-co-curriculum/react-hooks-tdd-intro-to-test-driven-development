@@ -1,6 +1,6 @@
 ---
 :lessons:
-- :id: 166173
-  :course_id: 5492
-  :canvas_url: https://learning.flatironschool.com/courses/5492/assignments/166173
-  :type: assignment
+  - :id: 156821
+    :course_id: 5492
+    :canvas_url: https://learning.flatironschool.com/courses/5492/pages/intro-to-test-driven-development
+    :type: page
